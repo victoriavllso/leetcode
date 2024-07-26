@@ -1,0 +1,1 @@
+Este repositório contém a resolução de diversos exercícios propostos na plataforma LeetCode. Cada solução é implementada com o objetivo de demonstrar abordagens eficientes para problemas de programação comuns. 
